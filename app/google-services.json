@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269820313767",
+    "project_id": "auth-afb28",
+    "storage_bucket": "auth-afb28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269820313767:android:fdc6d279c2cd661e041b82",
+        "android_client_info": {
+          "package_name": "com.hkl.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269820313767-n3m6nunoncqe1l9a2c8chflpfudbms9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzRoloB7mVUjJJox_zA-71mcztdY5DB28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269820313767-n3m6nunoncqe1l9a2c8chflpfudbms9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
